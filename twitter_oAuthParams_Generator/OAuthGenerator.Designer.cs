@@ -1,5 +1,5 @@
 ﻿namespace twitter_oAuthParams_Generator {
-    partial class Form1 {
+    partial class OAuthGenerator {
         /// <summary>
         /// Required designer variable.
         /// </summary>
